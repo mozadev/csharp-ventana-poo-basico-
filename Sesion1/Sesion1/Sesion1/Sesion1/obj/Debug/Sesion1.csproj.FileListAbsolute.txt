@@ -1,0 +1,30 @@
+E:\FSI\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe.config
+E:\FSI\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe
+E:\FSI\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.pdb
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csprojResolveAssemblyReference.cache
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form1.resources
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form2.resources
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Properties.Resources.resources
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csproj.GenerateResource.Cache
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.exe
+E:\FSI\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe.config
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form1.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form2.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Properties.Resources.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csproj.GenerateResource.Cache
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe.config
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.exe
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\bin\Debug\Sesion1.pdb
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form1.resources
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Form2.resources
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.Properties.Resources.resources
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csproj.GenerateResource.cache
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.csproj.CoreCompileInputs.cache
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.exe
+F:\marco brugman sii\semana 1\sesion blended\Sesion1\Sesion1\Sesion1\Sesion1\obj\Debug\Sesion1.pdb
